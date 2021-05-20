@@ -1,6 +1,6 @@
 # css-study
 
-## 1) glassmorphism 
+## 1 - Glassmorphism 
 ### from:https://youtu.be/yh6lyefeUKc
 ### Online Tutorials(Glassmorphism | Shiny Glass Social Media Icon Hover Effects) )
 
